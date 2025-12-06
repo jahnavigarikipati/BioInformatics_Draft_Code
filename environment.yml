@@ -1,0 +1,7 @@
+# all the libraries required for the project are already included in ipynb file
+# No specific environment setup is required
+# Steps to run the code
+#Login to Google Colab
+#upload the ipynb file given in github repository
+#updload the dataset downloaded from kaggle : https://www.kaggle.com/code/schizo3/clinvar-mutations
+#run all the cells
